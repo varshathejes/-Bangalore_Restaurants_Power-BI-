@@ -1,2 +1,3 @@
 # -Bangalore_Restaurants_Power-BI-
 The Bangalore Top Ten Restaurants project in Power BI is a data analysis project that aims to identify and showcase the top ten restaurants in Bangalore based on various criteria such as ratings, reviews, cuisines, and price range.
+the Bangalore Top Ten Restaurants project in Power BI is a powerful tool for exploring and analyzing restaurant data in Bangalore. The project provides valuable insights into the food scene in Bangalore and helps users identify the top ten restaurants based on their preferences. The project can be extended further by incorporating additional data sources and refining the analysis to provide even more insights into the restaurant industry in Bangalore.
